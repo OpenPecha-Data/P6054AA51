@@ -1,0 +1,116 @@
+id: 35361c78bcda4eb68b8d68af1ff21759
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  ff132199ef2243acbf967da09f416ae5:
+    span:
+      start: 0
+      end: 6578
+    metadata: {}
+    page_info: null
+    imgnum: 1
+    reference: null
+  65769c7a6fcc4e0999d5ea01c5a40483:
+    span:
+      start: 6580
+      end: 6703
+    metadata: {}
+    page_info: null
+    imgnum: 2
+    reference: null
+  dae6bc6633c643ff94b5e800f2e1b06f:
+    span:
+      start: 6705
+      end: 6820
+    metadata: {}
+    page_info: null
+    imgnum: 3
+    reference: null
+  9748dc4de23c4dbf94d9296ef21635cb:
+    span:
+      start: 6822
+      end: 6943
+    metadata: {}
+    page_info: null
+    imgnum: 4
+    reference: null
+  05ef67b91d494cdf9aec677861498235:
+    span:
+      start: 6945
+      end: 7060
+    metadata: {}
+    page_info: null
+    imgnum: 5
+    reference: null
+  8ea6af9829b94a6caa34d2aae0080a0c:
+    span:
+      start: 7062
+      end: 7181
+    metadata: {}
+    page_info: null
+    imgnum: 6
+    reference: null
+  a9ad780b523f44f1a0bd9e2fccd5656d:
+    span:
+      start: 7183
+      end: 7302
+    metadata: {}
+    page_info: null
+    imgnum: 7
+    reference: null
+  f2d5149207854a37869029226408946e:
+    span:
+      start: 7304
+      end: 7413
+    metadata: {}
+    page_info: null
+    imgnum: 8
+    reference: null
+  0e5e4de2489e4fa6a37b92acf30395dc:
+    span:
+      start: 7415
+      end: 7534
+    metadata: {}
+    page_info: null
+    imgnum: 9
+    reference: null
+  1672daa39dec4864b022ca8f4d8987bf:
+    span:
+      start: 7536
+      end: 7657
+    metadata: {}
+    page_info: null
+    imgnum: 10
+    reference: null
+  874039ae091341b09a0bdea9ca2184c3:
+    span:
+      start: 7659
+      end: 7912
+    metadata: {}
+    page_info: null
+    imgnum: 12
+    reference: null
+  03655c8a603c4addb1a7a6b2f2af7e8d:
+    span:
+      start: 7914
+      end: 8029
+    metadata: {}
+    page_info: null
+    imgnum: 13
+    reference: null
+  56b499d0aeab46b5be6fee72479ca280:
+    span:
+      start: 8031
+      end: 8154
+    metadata: {}
+    page_info: null
+    imgnum: 14
+    reference: null
+  50479756b5c14926947fa407a07bfb60:
+    span:
+      start: 8156
+      end: 8252
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
